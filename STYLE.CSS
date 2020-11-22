@@ -1,8 +1,8 @@
 body {
     background-image: url(IMAGE/pollution\ 1.jpg);
     ;
-    background-size: cover;background-color:#e0d8d8d5;
-    
+    background-size: cover;
+    background-color: #e0d8d8d5;
     background-repeat: no-repeat;
 }
 
@@ -11,7 +11,7 @@ header {
     width: 1100px;
     left: 500px;
     font-size: 92px;
-    text-align: center;
+    text-align: right;
     color: red;
     text-emphasis: underline;
 }
@@ -20,13 +20,13 @@ nav {
     height: 30px;
     width: 1100px;
     font-size: 30px;
-    text-align: center;
+    text-align: right;
 }
 
 main {
     height: 500px;
     width: 1100px;
-    text-align: center;
+    text-align: right;
     font-size: large;
 }
 
