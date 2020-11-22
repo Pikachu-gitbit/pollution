@@ -1,7 +1,8 @@
 body {
     background-image: url(IMAGE/pollution\ 1.jpg);
     ;
-    background-size: cover;
+    background-size: cover;background-color:#e0d8d8d5;
+    
     background-repeat: no-repeat;
 }
 
